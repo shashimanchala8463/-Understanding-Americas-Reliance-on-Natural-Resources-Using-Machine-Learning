@@ -1,0 +1,2 @@
+# -Americas-Reliance-on-Natural-Resources-Using-Machine-Learning
+This project leverages IoT and AI to modernize  Resource management by enabling real-time monitoring, predictive analytics, and data-driven decision-making. It addresses inefficiencies in traditional systems such as manual tracking and lack of integration by optimizing mineral usage, reducing waste, and promoting sustainable resource economics.
